@@ -1,6 +1,6 @@
 {
   "name": "elm-webpack-loader",
-  "version": "8.0.0",
+  "version": "8.0.0-lineaje-01",
   "description": "Webpack loader for the Elm programming language.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/elm-community/elm-webpack-loader.git"
+    "url": "https://github.com/lineaje-labs-gos/elm-webpack-loader"
   },
   "keywords": [
     "elm",
@@ -20,6 +20,12 @@
   ],
   "author": "elm-community",
   "license": "BSD-3-Clause",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/elm-community/elm-webpack-loader/issues"
   },
